@@ -19,5 +19,5 @@ class Product:
 
 
 product =Product(10)
-product.price =-10
+product.price =2
 print(product.price)
